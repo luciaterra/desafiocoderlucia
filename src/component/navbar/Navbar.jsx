@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <nav className="navbar navbar-expand-lg bg-light">
       <div className="container-fluid">
-        CoderAsk!
+        Tienda de Fotos
         <button
           className="navbar-toggler"
           type="button"
